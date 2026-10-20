@@ -1,4 +1,4 @@
-# TP3 — RAG sur mon CV
+# TP4 — RAG sur mon CV
 
 Contenu : `rag.ipynb` (notebook), `Reponses_TP3_RAG.docx` (document de réponses avec captures d'écran), `screenshots/` (captures), `pdfs/cv.pdf` (document utilisé).
 
